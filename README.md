@@ -1,5 +1,7 @@
 # Task Management System
 
+![Hero Image](./Public/hero.png)
+
 "Collaboration tools to make task management easier."
 
 **Language**     : C#  
