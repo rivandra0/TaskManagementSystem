@@ -3,7 +3,7 @@
 "Collaboration tools to make task management easier."
 
 **Language**     : C#  
-**Framework**    : .NET Core 9.0  
+**Framework**    : .NET Core 8.0  
 **Architecture** : Layered  
 **CreatedBy**    : Muhammad Rivandra  
 
