@@ -106,6 +106,7 @@ namespace TaskManagementSystem.Services
             #region validation
             var err = new System.Text.StringBuilder();
 
+            if (string.IsNullOrWhiteSpace(id)) { err.Append("must include id; "); }
             if (string.IsNullOrWhiteSpace(updatedTask.Title)) { err.Append("must include title; "); }
             if (string.IsNullOrWhiteSpace(updatedTask.Priority)) { err.Append("must include priority; "); }
             if (!TaskItemPriority.IsValid(updatedTask.Priority)) { err.Append("priority invalid; "); }
