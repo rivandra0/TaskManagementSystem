@@ -3,7 +3,7 @@ using TaskManagementSystem.Models;
 
 namespace TaskManagementSystem.Repositories
 {
-    public class MockTaskRepository : ITaskRepository
+    public class LocalTaskRepository : ITaskRepository
     {
         private static List<TaskItem> TaskItems = new List<TaskItem>
         {

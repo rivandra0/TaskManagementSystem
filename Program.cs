@@ -7,7 +7,8 @@ var builder = WebApplication.CreateBuilder(args);
 //registering service with real repository
 builder.Services.AddSingleton<TaskService>(_ =>
 {
-    //return new TaskService((new MockTaskRepository()));
+    //the repo object is interchangable
+    //return new TaskService(new LocalTaskRepository());
     return new TaskService(new TaskRepository(Path.Combine(AppContext.BaseDirectory, "Database", "db.json")));
 });
 

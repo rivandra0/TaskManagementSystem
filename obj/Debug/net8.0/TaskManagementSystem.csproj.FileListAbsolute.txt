@@ -35,3 +35,4 @@ C:\CODING\PROJECTS\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.pd
 C:\CODING\PROJECTS\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.genruntimeconfig.cache
 C:\CODING\PROJECTS\TaskManagementSystem\obj\Debug\net8.0\ref\TaskManagementSystem.dll
 C:\CODING\PROJECTS\TaskManagementSystem\bin\Debug\net8.0\Database\db.json
+C:\CODING\PROJECTS\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.sourcelink.json
