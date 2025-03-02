@@ -1,0 +1,121 @@
+{
+  "TaskItems": [
+    {
+      "Id": "f1425e9c-743f-45ae-9336-2f76971c599b",
+      "Title": "Design Landing Page",
+      "Description": "Create a new UI design for the company\u0027s landing page.",
+      "DueDate": "2025-03-10",
+      "Priority": "medium",
+      "Status": "pending",
+      "AssignTo": "andra"
+    },
+    {
+      "Id": "8d7b0a35-47e1-4c77-865c-b276ea2efc76",
+      "Title": "Refactor API Endpoints",
+      "Description": "Improve REST API structure for better maintainability.",
+      "DueDate": "2025-03-12",
+      "Priority": "high",
+      "Status": "ongoing",
+      "AssignTo": "andra"
+    },
+    {
+      "Id": "9b0f0de3-90fa-41e2-8390-4ac23895b5ff",
+      "Title": "(updated) Optimize Database Queries",
+      "Description": "Reduce query execution time by optimizing SQL indexes.",
+      "DueDate": "2025-03-15",
+      "Priority": "high",
+      "Status": "ongoing",
+      "AssignTo": "andra"
+    },
+    {
+      "Id": "f8f3bdf3-5c23-4db8-a2fd-9267e23f350d",
+      "Title": "Implement JWT Authentication",
+      "Description": "Secure API endpoints using JWT-based authentication.",
+      "DueDate": "2025-03-18",
+      "Priority": "high",
+      "Status": "ongoing",
+      "AssignTo": "andra"
+    },
+    {
+      "Id": "8bb1292a-f51f-4db3-9bd0-269d1dcb85e4",
+      "Title": "Write Unit Tests for Services",
+      "Description": "Increase test coverage for business logic services.",
+      "DueDate": "2025-03-20",
+      "Priority": "medium",
+      "Status": "pending",
+      "AssignTo": "budi"
+    },
+    {
+      "Id": "d64de3c2-6fd0-4bb8-98d1-50eb2919b8db",
+      "Title": "Migrate to .NET 8",
+      "Description": "Upgrade the project from .NET 6 to .NET 8 for better performance.",
+      "DueDate": "2025-03-22",
+      "Priority": "high",
+      "Status": "ongoing",
+      "AssignTo": "budi"
+    },
+    {
+      "Id": "c08ea05a-3199-44a7-b82e-1832566b0e8c",
+      "Title": "Enhance Error Logging",
+      "Description": "Improve error logging mechanism with structured logs.",
+      "DueDate": "2025-03-25",
+      "Priority": "low",
+      "Status": "completed",
+      "AssignTo": "budi"
+    },
+    {
+      "Id": "a3e4b72f-3d89-4c82-8d83-5bc8b3f35b1e",
+      "Title": "Set Up CI/CD Pipeline",
+      "Description": "Automate build and deployment using GitHub Actions.",
+      "DueDate": "2025-03-28",
+      "Priority": "high",
+      "Status": "ongoing",
+      "AssignTo": "budi"
+    },
+    {
+      "Id": "f62f3b92-b05a-4a0e-b93b-7e2955c64ee6",
+      "Title": "Fix Mobile Responsiveness",
+      "Description": "Ensure UI components are fully responsive on all devices.",
+      "DueDate": "2025-04-01",
+      "Priority": "medium",
+      "Status": "ongoing",
+      "AssignTo": "budi"
+    },
+    {
+      "Id": "b2b3dd9d-6299-4964-bbe1-7b3b5e2c8a71",
+      "Title": "Integrate Payment Gateway",
+      "Description": "Add support for Stripe and PayPal payments.",
+      "DueDate": "2025-04-05",
+      "Priority": "high",
+      "Status": "pending",
+      "AssignTo": "budi"
+    },
+    {
+      "Id": "7e9c7484-8f0a-4f66-93b3-7832f5d3f6e0",
+      "Title": "(updated) Improve Search Algorithm",
+      "Description": "(updated)Enhance search ranking logic for better user experience.",
+      "DueDate": "2025-04-08",
+      "Priority": "high",
+      "Status": "completed",
+      "AssignTo": "budi"
+    },
+    {
+      "Id": "39a96424-5157-4dde-b832-ccf11fa21c10",
+      "Title": "task baru pake post",
+      "Description": "description baru pake post",
+      "DueDate": "2025-03-15",
+      "Priority": "high",
+      "Status": "ongoing",
+      "AssignTo": "siti"
+    },
+    {
+      "Id": "ea818a39-0f54-4ce6-a01a-1f4f39e40072",
+      "Title": "Membuat aplikasi memasak",
+      "Description": "new description",
+      "DueDate": "2025-04-20",
+      "Priority": "medium",
+      "Status": "ongoing",
+      "AssignTo": "andra"
+    }
+  ]
+}
